@@ -1,0 +1,19 @@
+{
+  "name": "brickable",
+  "description": "TODO",
+  "version": "0.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Kovar <jacob.kovar@utexas.edu>",
+  "homepage": "https://github.com/mr-refactor/brickable#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mr-refactor/brickable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mr-refactor/brickable/issues"
+  }
+}
